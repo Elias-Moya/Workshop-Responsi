@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Raleway:wght@300;400;500;600;700;800;900&display=swap");
+
+/* Variables para el CSS*/
+:root {
+    /* Palette */
+    --primary-solid: #ff3333;
+    --primary-900: rgba(255, 51, 51, 0.9);
+    --primary-500: rgba(255, 51, 51, 0.5);
+    --primary-300: rgba(255, 51, 51, 0.3);
+
+    --secondary-solid: #1d84b5;
+    --secondary-900: rgba(29, 132, 181, 0.9);
+    --secondary-500: rgba(29, 132, 181, 0.5);
+    --secondary-300: rgba(29, 132, 181, 0.3);
+
+    --dark-gray-solid: #30343f;
+    --dark-gray-900: rgba(48, 52, 63, 0.9);
+    --dark-gray-900: rgba(48, 52, 63, 0.5);
+    --dark-gray-900: rgba(48, 52, 63, 0.3);
+
+    --dark-solid: #1f1f1f;
+    --dark-900: rgba(31, 31, 31, 0.9);
+    --dark-500: rgba(31, 31, 31, 0.5);
+    --dark-300: rgba(31, 31, 31, 0.3);
+
+    --pink-solid: #ff1654;
+    --pink-900: rgba(255, 22, 84, 0.9);
+    --pink-500: rgba(255, 22, 84, 0.5);
+    --pink-300: rgba(255, 22, 84, 0.3);
+
+    --dark-bg-solid: #30343f;
+    --light-bg-solid: #fafaff;
+
+    --light-font-solid: #ffffff;
+
+    /* Typography */
+    --base-font: "Inter", sans-serif;
+    --alternative-font: "Raleway", sans-serif;
+
+    /* Font-sizes */
+    --font-Display: 4.6em;
+    --font-Jumbo: 3.8em;
+    --font-Xlarge: 3em;
+    --font-Large: 2.4em;
+    --font-Medium: 1.8em;
+    --font-Small: 1.6em;
+    --font-Xsmall: 1.4em;
+    --font-Xsmall2: 1.2em;
+
+    /* Spacings */
+    /* UNIDADES DE MEDIDA PARA RESPONSIVE*/
+    --spacing-128: 12.8rem;
+    --spacing-68: 6.8rem;
+    --spacing-38: 3.8rem;
+    --spacing-36: 3.6rem;
+    --spacing-28: 2.8rem;
+    --spacing-24: 2.4rem;
+    --spacing-20: 2rem;
+    --spacing-16: 1.6rem;
+    --spacing-12: 1.2rem;
+    --spacing-8: 0.8rem;
+}
