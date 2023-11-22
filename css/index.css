@@ -6,7 +6,8 @@
 
 @import url('./misc/normalize.css');
 @import url('./misc/variables.css');
+@import url('./misc/helpers.css');
 
 /* PARTIALS */
 
-/* @import url('./partials/headers.css'); */
+@import url('./partials/header.css');
