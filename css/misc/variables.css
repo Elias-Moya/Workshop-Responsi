@@ -38,14 +38,14 @@
     --alternative-font: "Raleway", sans-serif;
 
     /* Font-sizes */
-    --font-Display: 4.6em;
-    --font-Jumbo: 3.8em;
-    --font-Xlarge: 3em;
-    --font-Large: 2.4em;
-    --font-Medium: 1.8em;
-    --font-Small: 1.6em;
-    --font-Xsmall: 1.4em;
-    --font-Xsmall2: 1.2em;
+    --font-display: 4.6em;
+    --font-jumbo: 3.8em;
+    --font-xlarge: 3em;
+    --font-large: 2.4em;
+    --font-medium: 1.8em;
+    --font-small: 1.6em;
+    --font-xsmall: 1.4em;
+    --font-xsmall2: 1.2em;
 
     /* Spacings */
     /* UNIDADES DE MEDIDA PARA RESPONSIVE*/
